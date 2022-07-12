@@ -1,6 +1,6 @@
 import React from "react";
-import Objstate from "./Objstate";
+import Counter from "../components/useMemo/Counter"
 
 export default function App() {
-    <Objstate/>
+    <Counter/>
 }
